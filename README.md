@@ -47,6 +47,11 @@ Before starting, ensure the following tools and software are installed [(Accordi
   - Architecture: **ARM64** (recommended for HoloLens 2).
   - Build Type: **D3D Project**.
 
+### 3. **Without HoloLens 2**
+- Navigate to MixedRealityPlayspace/Main Camera/Right Hand in scene Tele-scene.
+- Select the hand status to closed in Hand Pose Visualizer component.
+- Now the Canvas/Control/Quad element in scene can be moved to teleoperate the robotic system.
+
 ---
 
 ## **Deployment to HoloLens 2**
